@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.csprojResolveAssemblyReference.cache

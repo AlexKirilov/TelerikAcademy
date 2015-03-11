@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 4\bin\Debug\Salution 4.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 4\bin\Debug\Salution 4.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 4\bin\Debug\Salution 4.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 4\obj\Debug\Regtangle.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 4\obj\Debug\Salution 4.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 4\obj\Debug\Salution 4.pdb

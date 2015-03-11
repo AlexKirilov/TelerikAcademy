@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Bitwise\bin\Debug\Bitwise.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Bitwise\obj\Debug\Bitwise.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Bitwise\bin\Debug\Bitwise.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Bitwise\bin\Debug\Bitwise.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Bitwise\obj\Debug\Bitwise.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Bitwise\obj\Debug\Bitwise.pdb

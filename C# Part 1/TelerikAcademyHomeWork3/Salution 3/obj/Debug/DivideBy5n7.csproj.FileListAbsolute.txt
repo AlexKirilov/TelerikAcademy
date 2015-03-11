@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\bin\Debug\Salution 3.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\bin\Debug\Salution 3.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\bin\Debug\Salution 3.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\obj\Debug\DivideBy5n7.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\obj\Debug\Salution 3.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\obj\Debug\Salution 3.pdb

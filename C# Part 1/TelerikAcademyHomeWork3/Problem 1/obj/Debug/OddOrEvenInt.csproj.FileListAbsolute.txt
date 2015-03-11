@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Problem 1\bin\Debug\Problem 1.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Problem 1\bin\Debug\Problem 1.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Problem 1\bin\Debug\Problem 1.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Problem 1\obj\Debug\Problem 1.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Problem 1\obj\Debug\Problem 1.pdb

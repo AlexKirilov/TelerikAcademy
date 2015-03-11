@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\4DNum\bin\Debug\4DNum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\4DNum\bin\Debug\4DNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\4DNum\bin\Debug\4DNum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\4DNum\obj\Debug\Salution 6.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\4DNum\obj\Debug\4DNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\4DNum\obj\Debug\4DNum.pdb

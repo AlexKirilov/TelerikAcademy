@@ -1,0 +1,6 @@
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\02. Concatenate text files\obj\Debug\02. Concatenate text files.csprojResolveAssemblyReference.cache

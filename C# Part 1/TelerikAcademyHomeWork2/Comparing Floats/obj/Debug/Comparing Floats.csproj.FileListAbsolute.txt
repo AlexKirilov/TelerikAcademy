@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Comparing Floats\bin\Debug\Comparing Floats.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Comparing Floats\bin\Debug\Comparing Floats.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Comparing Floats\obj\Debug\Comparing Floats.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Comparing Floats\obj\Debug\Comparing Floats.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Comparing Floats\obj\Debug\Comparing Floats.pdb

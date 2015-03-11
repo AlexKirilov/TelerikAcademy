@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Sum5Num\bin\Debug\Sum5Num.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Sum5Num\bin\Debug\Sum5Num.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Sum5Num\bin\Debug\Sum5Num.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Sum5Num\obj\Debug\Sum5Num.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Sum5Num\obj\Debug\Sum5Num.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Sum5Num\obj\Debug\Sum5Num.pdb

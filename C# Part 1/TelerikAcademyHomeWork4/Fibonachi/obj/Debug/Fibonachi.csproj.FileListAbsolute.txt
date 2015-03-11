@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Fibonachi\bin\Debug\Fibonachi.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Fibonachi\obj\Debug\Fibonachi.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Fibonachi\bin\Debug\Fibonachi.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Fibonachi\bin\Debug\Fibonachi.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Fibonachi\obj\Debug\Fibonachi.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Fibonachi\obj\Debug\Fibonachi.pdb

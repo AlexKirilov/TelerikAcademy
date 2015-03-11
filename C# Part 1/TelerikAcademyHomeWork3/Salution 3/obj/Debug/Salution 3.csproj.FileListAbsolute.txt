@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\bin\Debug\Salution 3.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\bin\Debug\Salution 3.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\bin\Debug\Salution 3.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\obj\Debug\Salution 3.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\obj\Debug\Salution 3.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 3\obj\Debug\Salution 3.csprojResolveAssemblyReference.cache

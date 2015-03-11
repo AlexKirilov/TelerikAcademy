@@ -1,0 +1,5 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\PointInOutCircleRegtangle\bin\Debug\PointInOutCircleRegtangle.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\PointInOutCircleRegtangle\bin\Debug\PointInOutCircleRegtangle.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\PointInOutCircleRegtangle\bin\Debug\PointInOutCircleRegtangle.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\PointInOutCircleRegtangle\obj\Debug\PointInOutCircleRegtangle.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\PointInOutCircleRegtangle\obj\Debug\PointInOutCircleRegtangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\DeclareVariables\obj\Debug\DeclareVariables.pdb

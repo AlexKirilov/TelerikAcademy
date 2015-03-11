@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

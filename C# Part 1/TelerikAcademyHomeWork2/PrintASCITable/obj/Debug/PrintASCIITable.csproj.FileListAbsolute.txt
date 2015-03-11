@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\PrintASCITable\bin\Debug\PrintASCITable.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\PrintASCITable\bin\Debug\PrintASCITable.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\PrintASCITable\bin\Debug\PrintASCITable.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\PrintASCITable\obj\Debug\PrintASCITable.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\PrintASCITable\obj\Debug\PrintASCITable.pdb

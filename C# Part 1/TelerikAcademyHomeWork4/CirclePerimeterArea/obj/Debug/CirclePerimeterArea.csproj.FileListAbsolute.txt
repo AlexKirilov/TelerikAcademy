@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.pdb

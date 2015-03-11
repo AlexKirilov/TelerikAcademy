@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\UniCodeChar\bin\Debug\UniCodeChar.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\UniCodeChar\bin\Debug\UniCodeChar.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\UniCodeChar\bin\Debug\UniCodeChar.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\UniCodeChar\obj\Debug\UniCodeChar.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\UniCodeChar\obj\Debug\UniCodeChar.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\UniCodeChar\obj\Debug\UniCodeChar.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\BoolVal\bin\Debug\BoolVal.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\BoolVal\bin\Debug\BoolVal.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\BoolVal\bin\Debug\BoolVal.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\BoolVal\obj\Debug\BoolVal.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\BoolVal\obj\Debug\BoolVal.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\BoolVal\obj\Debug\BoolVal.pdb

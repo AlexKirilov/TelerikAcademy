@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\NumDividableby5\bin\Debug\NumDividableby5.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\NumDividableby5\bin\Debug\NumDividableby5.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\NumDividableby5\bin\Debug\NumDividableby5.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\NumDividableby5\obj\Debug\NumDividableby5.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\NumDividableby5\obj\Debug\NumDividableby5.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\NumDividableby5\obj\Debug\NumDividableby5.pdb

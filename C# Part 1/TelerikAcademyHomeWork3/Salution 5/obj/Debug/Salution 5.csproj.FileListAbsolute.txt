@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 5\bin\Debug\Salution 5.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 5\bin\Debug\Salution 5.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 5\bin\Debug\Salution 5.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 5\obj\Debug\Salution 5.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Salution 5\obj\Debug\Salution 5.pdb

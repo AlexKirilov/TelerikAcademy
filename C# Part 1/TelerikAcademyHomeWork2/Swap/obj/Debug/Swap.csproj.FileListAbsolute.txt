@@ -1,0 +1,5 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Swap\bin\Debug\Swap.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Swap\bin\Debug\Swap.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Swap\bin\Debug\Swap.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Swap\obj\Debug\Swap.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\Swap\obj\Debug\Swap.pdb

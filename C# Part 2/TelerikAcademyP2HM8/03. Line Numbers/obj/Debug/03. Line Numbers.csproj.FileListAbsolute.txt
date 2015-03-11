@@ -1,0 +1,5 @@
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\03. Line Numbers\bin\Debug\_03.Line_Numbers.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\03. Line Numbers\bin\Debug\_03.Line_Numbers.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\03. Line Numbers\bin\Debug\_03.Line_Numbers.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\03. Line Numbers\obj\Debug\_03.Line_Numbers.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\03. Line Numbers\obj\Debug\_03.Line_Numbers.pdb

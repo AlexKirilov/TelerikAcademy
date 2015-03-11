@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\nNumbers\bin\Debug\nNumbers.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\nNumbers\bin\Debug\nNumbers.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\nNumbers\bin\Debug\nNumbers.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\nNumbers\obj\Debug\nNumbers.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\nNumbers\obj\Debug\nNumbers.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\nNumbers\obj\Debug\nNumbers.pdb

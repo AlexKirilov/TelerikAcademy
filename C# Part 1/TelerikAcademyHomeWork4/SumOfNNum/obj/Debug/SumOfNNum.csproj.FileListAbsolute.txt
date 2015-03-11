@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\SumOfNNum\bin\Debug\SumOfNNum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\SumOfNNum\bin\Debug\SumOfNNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\SumOfNNum\bin\Debug\SumOfNNum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\SumOfNNum\obj\Debug\SumOfNNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\SumOfNNum\obj\Debug\SumOfNNum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\ExtractBitFInt\bin\Debug\ExtractBitFInt.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\ExtractBitFInt\bin\Debug\ExtractBitFInt.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\ExtractBitFInt\bin\Debug\ExtractBitFInt.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\ExtractBitFInt\obj\Debug\ExtractBitFInt.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\ExtractBitFInt\obj\Debug\ExtractBitFInt.pdb

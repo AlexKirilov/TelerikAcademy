@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Formatting Numbers\bin\Debug\Formatting Numbers.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Formatting Numbers\bin\Debug\Formatting Numbers.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Formatting Numbers\bin\Debug\Formatting Numbers.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Formatting Numbers\obj\Debug\Formatting Numbers.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Formatting Numbers\obj\Debug\Formatting Numbers.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Formatting Numbers\obj\Debug\Formatting Numbers.pdb

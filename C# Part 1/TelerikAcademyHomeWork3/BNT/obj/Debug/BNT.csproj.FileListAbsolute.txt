@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\BNT\bin\Debug\BNT.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\BNT\bin\Debug\BNT.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\BNT\bin\Debug\BNT.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\BNT\obj\Debug\BNT.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\BNT\obj\Debug\BNT.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\BNT\obj\Debug\BNT.pdb

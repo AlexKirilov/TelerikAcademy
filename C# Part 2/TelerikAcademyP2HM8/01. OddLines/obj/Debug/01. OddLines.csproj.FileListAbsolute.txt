@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\01. OddLines\bin\Debug\_01.OddLines.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\01. OddLines\bin\Debug\_01.OddLines.exe
+c:\users\alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\01. OddLines\bin\Debug\_01.OddLines.pdb
+c:\users\alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\01. OddLines\obj\Debug\01. OddLines.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\01. OddLines\obj\Debug\_01.OddLines.exe
+c:\users\alex\documents\visual studio 2013\Projects\TelerikAcademyP2HM8\01. OddLines\obj\Debug\_01.OddLines.pdb

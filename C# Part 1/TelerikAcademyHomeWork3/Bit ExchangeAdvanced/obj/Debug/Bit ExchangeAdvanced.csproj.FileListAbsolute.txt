@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\TelerikAcademyHomeWork3\Bit ExchangeAdvanced\bin\Debug\Bit ExchangeAdvanced.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Bit ExchangeAdvanced\bin\Debug\Bit ExchangeAdvanced.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Bit ExchangeAdvanced\bin\Debug\Bit ExchangeAdvanced.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Bit ExchangeAdvanced\obj\Debug\Bit ExchangeAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Bit ExchangeAdvanced\obj\Debug\Bit ExchangeAdvanced.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork3\Bit ExchangeAdvanced\obj\Debug\Bit ExchangeAdvanced.pdb

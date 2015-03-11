@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

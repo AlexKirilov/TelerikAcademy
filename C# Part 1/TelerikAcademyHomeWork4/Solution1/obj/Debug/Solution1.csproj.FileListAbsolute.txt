@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Solution1\bin\Debug\Solution1.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Solution1\bin\Debug\Solution1.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Solution1\bin\Debug\Solution1.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Solution1\obj\Debug\Solution1.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Solution1\obj\Debug\Solution1.exe
+c:\users\alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork4\Solution1\obj\Debug\Solution1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\FlotOrDouble\bin\Debug\FlotOrDouble.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\FlotOrDouble\bin\Debug\FlotOrDouble.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\FlotOrDouble\bin\Debug\FlotOrDouble.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\FlotOrDouble\obj\Debug\FlotOrDouble.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\TelerikAcademyHomeWork2\FlotOrDouble\obj\Debug\FlotOrDouble.pdb
