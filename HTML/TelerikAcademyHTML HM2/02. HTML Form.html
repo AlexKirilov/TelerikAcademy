@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>02. HTML Form</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            body { font: 18px/1.5 Cambria, sans-serif;  }
+            span { font-weight: bolder; cursor: context-menu;}
+            button {  transform: rotate(-17deg); 
+                      border: 1px solid green; 
+                      border-radius: 35%; 
+                      height: 30px;
+                      margin-top: 20px; 
+                      font-style: italic;
+                      box-shadow: -3px -3px 0 0 gainsboro;
+            }
+            button:hover{
+                box-shadow: 0px 0px 0 0 gainsboro;
+                margin: 18px 0 0 -1px;
+                cursor: pointer;
+            }
+            .normalTxt{
+                font-weight: normal;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div>
+            <form>
+                <span class="normalTxt">Member name: </span><input type="text" name="memberName" /><span> *req</span><br />
+                <span class="normalTxt">Email: </span><input type="text" name="email" /><span> *req</span><br />
+                <span class="normalTxt">School:</span> <input type="text" name="school" /><span> *req</span><br />
+                <button type="submit" name="submit" value="Submit">Submit</button>   
+            </form>
+        </div>
+    </body>
+</html>
