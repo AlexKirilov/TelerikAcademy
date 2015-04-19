@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lenovo Products</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <style>
+            *{
+                padding: 0;
+                margin: 0 auto;
+            }
+            body{
+                padding-top: 50px;
+                width: 800px;
+                font: 14px/1.5 sans-serif, Arial;
+            }
+            .PC_field{
+                width: 150px;
+                height: 100px;
+                border: 2px solid;
+                padding: 10px;
+            }
+            .PC_field img{
+                width: 50px;
+                height: 50px;
+                background-size: contain;
+            }
+            #first_table{
+                border: 2px solid black;
+                border-radius: 1%;
+            }
+            #menu{
+                border-bottom: 2px solid black;
+                text-align: center;
+                padding: 5px;
+                font-size: 1.5em;
+            }
+            .second_table{
+                border: 2px solid black;
+                padding: 5px;
+                margin: 3px;
+            }
+            .sidebar{
+                font-size: 1.5em;
+                padding: 0 10px;
+            }
+            .first_line{
+                float: right;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container_NootBook">
+            <table id="first_table">
+                <tr>
+                    <th id="menu">
+                        <a href="../03. Notebook store.html">All</a>
+                        <a href="apple.html">Apple</a>
+                        <a href="toshiba.html">Toshiba</a>
+                        <a href="lenovo.html">Lenovo</a>
+                        <a href="dell.html">Dell</a>
+                        <a href="asus.html">Asus</a>
+                        <a href="hacer.html">Hacer</a>
+                        <a href="hp.html">HP</a>
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>
+                                    <table class="second_table">
+                                        <tr>
+                                            <td>
+                                                <fieldset class="PC_field">
+                                                    <legend>Lenovo</legend>
+                                                    <img src="images/lenovo.jpg" alt=""/>
+                                                    <p  class="first_line"><span>64GB SSD</span><br/>
+                                                        <span>2GB DDR</span>
+                                                    </p>
+                                                    <span>1300 USD Intel Core i7</span>
+                                                </fieldset>
+                                            </td>
+                                            <td>
+                                                <fieldset class="PC_field">
+                                                    <legend>Lenovo</legend>
+                                                    <img src="images/lenovo.jpg" alt=""/>
+                                                    <p  class="first_line"><span>64GB SSD</span><br/>
+                                                        <span>2GB DDR</span>
+                                                    </p>
+                                                    <span>1300 USD Intel Core i7</span>
+                                                </fieldset>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <fieldset class="PC_field">
+                                                    <legend>Lenovo</legend>
+                                                    <img src="images/lenovo.jpg" alt=""/>
+                                                    <p  class="first_line"><span>64GB SSD</span><br/>
+                                                        <span>2GB DDR</span>
+                                                    </p>
+                                                    <span>1300 USD Intel Core i7</span>
+                                                </fieldset>
+                                            </td>
+                                            <td>
+                                                <fieldset class="PC_field">
+                                                    <legend>Lenovo</legend>
+                                                    <img src="images/lenovo.jpg" alt=""/>
+                                                    <p  class="first_line"><span>64GB SSD</span><br/>
+                                                        <span>2GB DDR</span>
+                                                    </p>
+                                                    <span>1300 USD Intel Core i7</span>
+                                                </fieldset>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <fieldset class="PC_field">
+                                                    <legend>Lenovo</legend>
+                                                    <img src="images/lenovo.jpg" alt=""/>
+                                                    <p  class="first_line"><span>64GB SSD</span><br/>
+                                                        <span>2GB DDR</span>
+                                                    </p>
+                                                    <span>1300 USD Intel Core i7</span>
+                                                </fieldset>
+                                            </td>
+                                            <td>
+                                                <fieldset class="PC_field">
+                                                    <legend>Lenovo</legend>
+                                                    <img src="images/lenovo.jpg" alt=""/>
+                                                    <p  class="first_line"><span>64GB SSD</span><br/>
+                                                        <span>2GB DDR</span>
+                                                    </p>
+                                                    <span>1300 USD Intel Core i7</span>
+                                                </fieldset>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td>
+                                    <div class="sidebar">
+                                        <p>
+                                            Min price: <output for=minprice id=minprice>1000</output>&nbsp;USD <br />
+                                            <input id="sminprice" type="range" min="500" max="1500" step="50" oninput="outputMinPrice(value)" />
+                                        </p>
+                                        <p>
+                                            Max price: <output for=maxprice id=maxprice>1000</output>&nbsp;USD <br />
+                                            <input id="smaxprice" type="range" min="500" max="1500" step="50" oninput="outputMaxPrice(value)" />
+                                        </p>
+                                        <p>
+                                            Min RAM: <output for=minram id=minram>12</output>&nbsp;GB <br />
+                                            <input id="sminram" type="range" min="4" max="16" step="4" oninput="outputMinRAM(value)" />
+                                        </p>
+                                        <p>
+                                            Max RAM: <output for=maxram id=maxram>12</output>&nbsp;GB <br />
+                                            <input id="smaxram" type="range" min="4" max="16" step="4" oninput="outputMaxRAM(value)" />
+                                        </p>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>

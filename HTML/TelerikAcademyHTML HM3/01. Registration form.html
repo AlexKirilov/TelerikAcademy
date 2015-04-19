@@ -9,22 +9,27 @@ and open the template in the editor.
         <title>TODO supply a title</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            table *{ border: 1px solid;}
+            th{ width: 70px}
+            button{ font-weight: bolder; margin: 2px; border: grey; }
+        </style>
     </head>
     <body>
         <div class="Main-container-Reg-Form">
-            <form>
-                <table>
-                    <tr>
+            <form style="width: 400px;">
+                <table cellspacing="0">
+                    <tr style="border: 1px solid">
                         <th>Last Name</th>
                         <td><input type="text" name="lname" /></td>
                     </tr>
                     <tr>
                         <th>First Name</th>
-                        <td><input type="text" name="Fname" /></td>
+                        <td ><input type="text" name="Fname" /></td>
                     </tr>
                     <tr>
                         <th> Address </th>
-                        <td><input type="text" name="address" size="200"/></td>
+                        <td><textarea rows="6" cols="30" required></textarea></td>
                     </tr>
                     <tr>
                         <th>City</th>
@@ -32,8 +37,66 @@ and open the template in the editor.
                     </tr>
                     <tr>
                         <th>Zip/Post Code</th>
-                        <td><input type="text" name="ZipCode" size="4"/></td>
+                        <td><input type="text" name="ZipCode" size="4" maxlength="4"/></td>
                     </tr>
+                    <tr>
+                        <th>Country</th>
+                        <td>
+                            <select>
+                                <option value="bulgaria">Bulgaria</option>
+                                <option value="germany">Germany</option>
+                                <option value="austria">Austria</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Phone (country code, area code,number</th>
+                        <td>
+                            (+<input type="text" maxlength="3" size="3" name="phonecode"/>)
+                            <input type="text" maxlength="3" size="3" name="phonenumber"/>
+                            <input type="text" maxlength="6" size="6" name="phonenumber2" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>E-mail</th>
+                        <td>
+                            <input type="text" name="Email" size="20" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Birth date</th>
+                        <td><input type="text" value="дд.мм.гггг г."  /></td>
+                    </tr>
+                    <tr>
+                        <th>Gender</th>
+                        <td>
+                            
+                            <select>
+                                <option value="male">Male</option>
+                                <option value="female">Female</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Starting date</th>
+                        <td>
+                            <input name="season" type="radio" value="spring2015" /> Spring 2015
+                            <input name="season" type="radio" value="summer2015" /> Summer 2015
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Comments/Questions</th>
+                        <td>
+                            <textarea rows="6" cols="30" required></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="background:aqua; text-align: center; ">
+                            <button type="submit" name="submit" value="submit">Submit</button>
+                            <button type="button" name="clear" value="clear" >Clear This Form</button>
+                        </td>
+                    </tr>
+
                 </table>
             </form>
         </div>
