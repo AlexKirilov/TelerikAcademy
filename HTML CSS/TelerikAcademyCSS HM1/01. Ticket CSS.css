@@ -1,0 +1,53 @@
+/* 
+    Created on : 19.04.2015, 21:59:48
+    Author     : Alex
+*/
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+body{
+    font: 11.5px/1.5 'Calibri', sans-serif;
+}
+
+section{
+    width: 320px;
+    height: 205px;
+    background-color: #595959;
+    padding-left: 8px;
+}
+h3{
+    color: #C0BDBB;
+    font-size: 1.4em;
+    padding-bottom: 10px;
+}
+li{
+    display: block;
+    overflow: hidden;
+    padding-bottom: 8px;
+    color: #E0D081;
+}
+.title_row{
+    width: 111px;
+    float: left;
+    color: white;
+    font-style: italic;
+}
+#alert_msg{
+    color: red;
+    margin-left: 111px;
+}
+.ring{
+    background-color: #71B47A;
+    width: 8px;
+    border-radius: 100%;
+}
+.data_row2{
+   margin-left: 111px; 
+}
+.different_color{
+    color: #C0BDBB; 
+}
+.status_color{
+    color: #DB6A21;
+}
