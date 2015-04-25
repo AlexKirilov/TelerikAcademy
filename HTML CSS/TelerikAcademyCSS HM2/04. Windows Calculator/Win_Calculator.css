@@ -1,0 +1,248 @@
+/* 
+    Created on : 22.04.2015, 18:52:01
+    Author     : Alex
+*/
+*   {
+    padding: 0;
+    margin: 0 auto;
+}
+
+body{
+    font: 14px/1.5 'Cabria', sans-serif;
+}
+
+.MainDivOfCalculator{
+    width: 430px;
+    margin: 50px;
+    height: 414px;
+    background-image: url('background.jpg');
+    background-repeat:repeat; 
+    border-radius: 10px;
+    padding: 10px;
+}
+.header{
+    width: 100%;
+    height: 20px;
+    display: block;
+}
+
+.title{
+    width: 100px;
+    float: left;
+}
+#calcIcon{
+    width: 20px;
+    float: left;
+    margin-top: -1px;
+    margin-left: -3px;
+}
+
+h4{
+    display: flex;
+    padding-left: 4px;
+}
+
+.applicationButtons{
+    float: right;
+    width: 105px;
+    margin-right: -2px;
+    margin-top: -10px;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 5px;
+}
+.appButtons{
+    width: 34.3px;
+    float: left;
+    border-right: 1px solid black;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-color: #A8BAD1;
+}
+.appButtons:last-child{
+    border-right: 0;
+    background-color: #BB4535;
+    border-bottom-right-radius: 3px;
+}
+
+#maximaze{
+    opacity: 0.9;
+    color: #D1DDE9;
+}
+.bodyOfCalc{
+    border: 1px solid black;
+    border-radius: 5px;
+    position: absolute;
+    top: 84px;
+    left: 58px;
+    width: 432px;
+    height: 390px;
+    background-color: #D9E4F1;
+}
+.nav{
+    height: 25px;
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+    background-image: url('backgroundNavi.jpg'); 
+    background-repeat: repeat-x;
+}
+.navButton{
+    display: inline-block;
+    margin-left: 7px;
+}
+.navButton:first-letter{
+    text-decoration: underline;
+}
+.calcScreen{
+    height: 55px;
+    width: 408px;
+    margin: 8px 0 0 12px;
+    text-align: right;
+    position: absolute;
+    border: 1px solid grey;
+    border-radius: 4px;
+    background-image: url('backgroundCalcScreen.jpg');
+    background-repeat: repeat-x;
+}
+#calcScreenTxt{
+    padding-right: 4px;
+    font-size: 1.8em;
+    position: relative;
+    top: 15px;
+}
+.bitViewScreen{
+    position: relative;
+    width: 408px;
+    top: 70px;
+    height: 67px;
+    left: 12px;
+    display: inline-flex;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.bitParts{
+    width: 40px;
+}
+.silverTxt{
+    top: -5px;
+    position: relative;
+}
+.silverTxt:last-child{
+    margin-left: 16px;
+}
+.secondtRow{
+    top: 10px;
+    position: relative;
+}
+.row2{
+    top:-12px;
+}
+.row4{
+    top:-18px;
+    position: relative;
+}
+#lsChild1{
+    margin-left: 17px;
+}
+#lsChild2{
+    margin-left: 25px;
+}
+.userButtons{
+    position: relative;
+    top: 75px;
+    font-size: 1.04em;
+    left: -166px;
+    width: 78px;
+}
+.radio1{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    height: 84px;
+    font-weight: bold;
+    font-size: 0.95em;
+
+}
+.radio2{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top:5px;
+    padding: 8px;
+    height: 84px; 
+    font-weight: bold;
+    font-size: 0.95em;
+}
+.rightButtonPanel{
+    position: relative;
+    top: -141px;
+    left: 90px;
+    width: 338px;
+    height: 221px;
+    margin: 0px;
+}
+button{
+    width: 35px;
+    height: 30px;
+    margin: 0px;
+    margin-right: 2.5px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+button:hover{
+    color:orange;
+    box-shadow: 0 0 10px 0px grey;
+    /*border: 2px solid #fbe34c;*/
+    /*background: #fef0e0;*/
+}
+#partButtons1{
+    padding: 4px;
+}
+#DoubleSize0{
+    width: 77px;
+}
+.btnRow1{
+    margin-top: -6px;
+}
+#emptybtn{
+    position: relative;
+    top: 9px;
+    border-color: grey;
+}
+.btnRow2    {    margin-top: 5px;    }
+.btnRow3    {    margin-top: 5px;    }
+.btnRow4    {    margin-top: 5px;    }
+.btnRow5{
+    padding-top: 5px;
+    width: 300px;
+    left: 10px;
+    margin: 0px;
+}
+.btnRow6    {    padding-top: 6px;   }
+#DoubleSizeEquals{
+    position: relative;
+    top: -66px;
+    left: 291px;
+    height: 67px;
+}
+.functional , .ce{
+    background-image: url('backgroundNavi.jpg');
+    background-repeat: repeat;
+}
+.letter{
+    border-color: grey;
+}
+.numbers{
+    background-image: url('backgroundNavi.jpg');
+    background-repeat: space;
+    background-size: cover;
+}
+.other{
+    border-color: grey;
+}
+input[type=radio] {
+    cursor: pointer;
+}

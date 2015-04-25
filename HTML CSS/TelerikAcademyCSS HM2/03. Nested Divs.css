@@ -1,0 +1,13 @@
+/* 
+    Created on : 26.04.2015, 00:52:03
+    Author     : Alex
+*/
+
+div{
+    border: 2px solid red;
+    background-color: black;
+    width: 90%;
+    border-radius: 40px;
+    position: relative;
+    zoom: 1;
+}

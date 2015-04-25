@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Windows Calculator - Telerir version</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="Win_Calculator.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <div class="MainDivOfCalculator">
+
+            <div class="header">
+                <div class="title">
+                    <img src="calcIcon.gif" id="calcIcon" alt="">
+                    <h4>Calculator</h4> 
+                </div>
+                <div class="applicationButtons">
+                    <div class="appButtons" id="minimize">_</div>
+                    <div class="appButtons" id="maximaze">⃞</div>
+                    <div class="appButtons" id="exitButton">X</div>
+                </div>
+            </div>
+
+            <div class="bodyOfCalc">
+                <div class="nav">
+                    <div class="navButton" id="viewButt">View</div>
+                    <div class="navButton" id="editButt">Edit</div>
+                    <div class="navButton" id="helpButt">Help</div>
+                </div>
+                <div class="userScreen">
+                    <div class="calcScreen"><span id="calcScreenTxt">8854455</span></div>
+                    <div class="bitViewScreen">
+                        <div class="bitParts" id="bitPart1">  
+                            <span class="firstRow">0000</span>
+                            <span class="silverTxt">63</span>
+                            <span class="secondtRow row2">0000</span> 
+                            <span class="row4">31</span>
+                        </div>
+                        <div class="bitParts" id="bitPart1">
+                            <span class="firstRow">0000</span>
+                            <span class="secondtRow">0000</span> 
+                        </div>
+                        <div class="bitParts" id="bitPart1">
+                            <span class="firstRow">0000</span>
+                            <span class="secondtRow">1000</span> 
+                        </div>
+                        <div class="bitParts" id="bitPart1">
+                            <span class="firstRow">0000</span>
+                            <span class="secondtRow">0111</span> 
+                        </div>
+                        <div class="bitParts" id="bitPart1">
+                            <span class="firstRow">0000</span>
+                            <span class="silverTxt">47</span>
+                            <span class="secondtRow row2">0001</span>
+                            <span class="row4">15</span>
+                        </div>
+                        <div class="bitParts" id="bitPart1">
+                            <span class="firstRow">0000</span>
+                            <span class="secondtRow">1011</span> 
+                        </div>
+                        <div class="bitParts" id="bitPart1">
+                            <span class="firstRow">0000</span> 
+                            <span class="secondtRow">1011</span> 
+                        </div>
+                        <div class="bitParts" id="bitPart1">
+                            <span class="firstRow">0000</span> 
+                            <span class="silverTxt" id="lsChild1">32</span>
+                            <span class="secondtRow row2">0111</span> 
+                            <span class="row4" id="lsChild2">0</span>
+                        </div>
+                    </div>
+                    <div class="userButtons">
+                        <div class="leftRadioButtons">
+                            <div class="radio1">
+                                <form action="">
+                                    <input type="radio" name="typeCode" value="Hex">&nbsp;Hex<br />
+                                    <input type="radio" name="typeCode" value="Dec">&nbsp;Dec<br />
+                                    <input type="radio" name="typeCode" value="Oct">&nbsp;Oct<br />
+                                    <input type="radio" name="typeCode" value="Bin">&nbsp;Bin
+                                </form>
+                            </div>
+                            <div class="radio2">
+                                <form action="">
+                                    <input type="radio" name="type" value="Qword">&nbsp;Qword<br />
+                                    <input type="radio" name="type" value="Dword">&nbsp;Dword<br />
+                                    <input type="radio" name="type" value="Word">&nbsp;Word<br />
+                                    <input type="radio" name="type" value="Byte">&nbsp;Byte
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="rightButtonPanel">
+                        <div id="partButtons1">
+                            <div class="btnRow1">
+                                <button type="button" name="" id="emptybtn" value="empty"></button>
+                                <button type="button" name="" class="functional">Mod</button>
+                                <button type="button" name="" class="letter">A</button>
+                                <button type="button" name="">MC</button>
+                                <button type="button" name="">MR</button>
+                                <button type="button" name="">MS</button>
+                                <button type="button" name="">M+</button>
+                                <button type="button" name="">M-</button>
+                            </div>
+                            <div class="btnRow2">
+                                <button type="button" name="" class="functional">(</button>
+                                <button type="button" name="" class="functional">)</button>
+                                <button type="button" name="" class="letter">B</button>
+                                <button type="button" name="" class="functional"><img src="arrow.png"  alt="arrow"/></button>
+                                <button type="button" name="" class="ce">CE</button>
+                                <button type="button" name="" class="functional">C</button>
+                                <button type="button" name="" class="functional">&plusmn;</button>
+                                <button type="button" name="" class="other">&radic;</button>
+                            </div>
+                            <div class="btnRow3">
+                                <button type="button" name="" class="functional">RoL</button>
+                                <button type="button" name="" class="functional">RoR</button>
+                                <button type="button" name="" class="letter">C</button>
+                                <button type="button" name="" class="numbers">7</button>
+                                <button type="button" name="" class="numbers">8</button>
+                                <button type="button" name="" class="numbers">9</button>
+                                <button type="button" name="" class="functional">/</button>
+                                <button type="button" name="" class="other">%</button>
+                            </div>
+                            <div class="btnRow4">
+                                <button type="button" name="" class="functional">Or</button> 
+                                <button type="button" name="" class="functional">Xor</button> 
+                                <button type="button" name="" class="letter">D</button> 
+                                <button type="button" name="" class="numbers">4</button> 
+                                <button type="button" name="" class="numbers">5</button> 
+                                <button type="button" name="" class="numbers">6</button>
+                                <button type="button" name="" class="functional">*</button> 
+                                <button type="button" name="" class="other">1/x</button> 
+                            </div>
+                            <div class="btnRow5">
+                                <button type="button" name="" class="functional">Lsh</button> 
+                                <button type="button" name="" class="functional">Rsh</button> 
+                                <button type="button" name="" class="letter">E</button> 
+                                <button type="button" name="" class="numbers">1</button>
+                                <button type="button" name="" class="numbers">2</button> 
+                                <button type="button" name="" class="numbers">3</button>
+                                <button type="button" name="" class="functional">-</button>
+
+                                <div class="btnRow6">
+                                    <button type="button" name="" class="functional">Not</button> 
+                                    <button type="button" name="" class="functional">And</button>
+                                    <button type="button" name="" class="letter">F</button>
+                                    <button type="button" name="" id="DoubleSize0"  class="numbers">0</button>
+                                    <button type="button" name="" class="other">.</button>
+                                    <button type="button" name="" class="functional">+</button> 
+                                </div>
+                            </div>
+                            <button type="button" name="" class="doubleSizeButton" id="DoubleSizeEquals">=</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
