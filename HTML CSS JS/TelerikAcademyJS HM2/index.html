@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Dynamic JavaScript faile-->
+        <script src="http://code.jquery.com/jquery-2.0.0.min.js" type="text/javascript"></script>
+        <script src="HM2 Operators and Expressions.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <div id="main-container-HomeWorkJS">
+
+        </div>
+        
+    </body>
+</html>
+<!--
+***************************************************************************
+HM1 Типове данни и променливи
+
+Problem 1. JavaScript literals
+
+Assign all the possible JavaScript literals to different variables.
+Problem 2. Quoted text
+
+Create a string variable with quoted text in it.
+For example: `'How you doin'?', Joey said'.
+Problem 3. Typeof variables
+
+Try typeof on all variables you created.
+Problem 4. Typeof null
+
+Create null, undefined variables and try typeof on them.
+
+************************ END HM 1 *****************************************************
+
+HM 2 Оператори и изрази
+
+Operators and Expressions
+Problem 1. Odd or Even
+
+Write an expression that checks if given integer is odd or even.
+Examples:
+
+n	Odd?
+3	true
+2	false
+-2	false
+-1	true
+0	false
+Problem 2. Divisible by 7 and 5
+
+Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.
+Examples:
+
+n	Divided by 7 and 5?
+3	false
+0	true
+5	false
+7	false
+35	true
+140	true
+Problem 3. Rectangle area
+
+Write an expression that calculates rectangle’s area by given width and height.
+Examples:
+
+width	height	area
+3	4	12
+2.5	3	7.5
+5	5	25
+Problem 4. Third digit
+
+Write an expression that checks for given integer if its third digit (right-to-left) is 7.
+Examples:
+
+n	Third digit 7?
+5	false
+701	true
+1732	true
+9703	true
+877	false
+777877	false
+9999799	true
+Problem 5. Third bit
+
+Write a boolean expression for finding if the bit #3 (counting from 0) of a given integer.
+The bits are counted from right to left, starting from bit #0.
+The result of the expression should be either 1 or 0.
+Examples:
+
+n	binary representation	bit #3
+5	00000000 00000101	0
+8	00000000 00001000	1
+0	00000000 00000000	0
+15	00000000 00001111	1
+5343	00010100 11011111	1
+62241	11110011 00100001	0
+Problem 6. Point in Circle
+
+Write an expression that checks if given point P(x, y) is within a circle K(O, 5).
+Examples:
+
+x	y	inside
+0	1	true
+-5	0	true
+-4	5	false
+1.5	-3	true
+-4	-3.5	false
+100	-30	false
+0	0	true
+0.2	-0.8	true
+0.9	-4.93	false
+2	2.655	true
+Problem 7. Is prime
+
+Write an expression that checks if given positive integer number n (n ≤ 100) is prime.
+Examples:
+
+n	Prime?
+1	false
+2	true
+3	true
+4	false
+9	false
+37	true
+97	true
+51	false
+-3	false
+0	false
+Problem 8. Trapezoid area
+
+Write an expression that calculates trapezoid's area by given sides a and b and height h.
+Examples:
+
+a	b	h	area
+5	7	12	72
+2	1	33	49.5
+8.5	4.3	2.7	17.28
+100	200	300	45000
+0.222	0.333	0.555	0.1540125
+Problem 9. Point in Circle and outside Rectangle
+
+Write an expression that checks for given point P(x, y) if it is within the 
+circle K( (1,1), 3) and out of the rectangle R(top=1, left=-1, width=6, height=2).
+Examples:
+
+x	y	inside K & outside of R
+1	2	yes
+2.5	2	no
+0	1	no
+2.5	1	no
+2	0	no
+4	0	no
+2.5	1.5	no
+2	1.5	yes
+1	2.5	yes
+-100	-100	no
+
+************************************* END HM 2 ***************************************************************
+
+HM 3 Условни конструкции
+
+Conditional statements
+Problem 1. Exchange if greater
+
+Write an if statement that takes two double variables a and b and exchanges their values if the first one is greater than the second.
+As a result print the values a and b, separated by a space.
+Examples:
+
+a	b	result
+5	2	2 5
+3	4	3 4
+5.5	4.5	4.5 5.5
+Problem 2. Multiplication Sign
+
+Write a script that shows the sign (+, - or 0) of the product of three real numbers, without calculating it.
+Use a sequence of if operators.
+Examples:
+
+a	b	c	result
+5	2	2	+
+-2	-2	1	+
+-2	4	3	-
+0	-2.5	4	0
+-1	-0.5	-5.1	-
+Problem 3. The biggest of Three
+
+Write a script that finds the biggest of three numbers.
+Use nested if statements.
+Examples:
+
+a	b	c	biggest
+5	2	2	5
+-2	-2	1	1
+-2	4	3	4
+0	-2.5	5	5
+-0.1	-0.5	-1.1	-0.1
+Problem 4. Sort 3 numbers
+
+Sort 3 real values in descending order.
+Use nested if statements.
+Note: Don’t use arrays and the built-in sorting functionality.
+
+Examples:
+
+a	b	c	result
+5	1	2	5 2 1
+-2	-2	1	1 -2 -2
+-2	4	3	4 3 -2
+0	-2.5	5	5 0 -2.5
+-1.1	-0.5	-0.1	-0.1 -0.5 -1.1
+10	20	30	30 20 10
+1	1	1	1 1 1
+Problem 5. Digit as word
+
+Write a script that asks for a digit (0-9), and depending on the input, shows the digit as a word (in English).
+Print “not a digit” in case of invalid input.
+Use a switch statement.
+Examples:
+
+digit	result
+2	two
+1	one
+0	zero
+5	five
+-0.1	not a digit
+hi	not a digit
+9	nine
+10	not a digit
+Problem 6. Quadratic equation
+
+Write a script that reads the coefficients a, b and c of a quadratic equation ax2 + bx + c = 0 and solves it (prints its real roots).
+Calculates and prints its real roots.
+Note: Quadratic equations may have 0, 1 or 2 real roots.
+
+Examples:
+
+a	b	c	roots
+2	5	-3	x1=-3; x2=0.5
+-1	3	0	x1=3; x2=0
+-0.5	4	-8	x1=x2=4
+5	2	8	no real roots
+Problem 7. The biggest of five numbers
+
+Write a script that finds the greatest of given 5 variables.
+Use nested if statements.
+Examples:
+
+a	b	c	d	e	biggest
+5	2	2	4	1	5
+-2	-22	1	0	0	1
+-2	4	3	2	0	4
+0	-2.5	0	5	5	5
+-3	-0.5	-1.1	-2	-0.1	-0.1
+Problem 8. Number as words
+
+Write a script that converts a number in the range [0…999] to words, corresponding to its English pronunciation.
+Examples:
+
+numbers	number as words
+0	Zero
+9	Nine
+10	Ten
+12	Twelve
+19	Nineteen
+25	Twenty five
+98	Ninety eight
+98	Ninety eight
+273	Two hundred and seventy three
+400	Four hundred
+501	Five hundred and one
+617	Six hundred and seventeen
+711	Seven hundred and eleven
+999	Nine hundred and ninety nine
+
+
+
+*************************************** eND HM 3 **************************************************************************
+-->
