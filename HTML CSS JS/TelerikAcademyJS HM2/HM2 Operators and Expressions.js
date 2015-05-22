@@ -19,9 +19,8 @@ $(document).ready(function (){
     
     //Vizualizira HTML-a
     $('#main-container-HomeWorkJS').html(mainHTML);
-    
     //Style of the DOM  
-    $('#nav').css({"background-color":"grey", "width":"160px" , "float":"left"});
+    $('#nav').css({"background":"linear-gradient(270deg, grey, #000000", "width":"160px" , "float":"left"});
     $('#nav > ul > li').css({"padding":"5px", "color":"white",
       "overflow":"hidden", "margin-left":"-40px", "width":"150px",
       "border-bottom":"2px solid gold"});
@@ -32,12 +31,13 @@ $(document).ready(function (){
     
     //Hover na Li-tata
     $("#nav > ul > li").mouseenter(function() {
-        $(this).css({"color":"#F00"});
+        $(this).css({"color":hoverColor});
         }).mouseleave(function() {
              $(this).css({"color":"white"});
         });
         
-    
+    var activeColor = "lawngreen";
+    var hoverColor = "yellow";
     
     var problem1 = '<p> Enter integer to chek if is odd or even </p>'+
                    '<input type="text" name="inputP1" id="Odd_Even" />'+
@@ -96,8 +96,8 @@ $(document).ready(function (){
            $("#nav > ul > li").css({"color":"white"}).mouseleave(function() {
              $(this).css({"color":"white"});
          });
-           $('#task1').css("color","green").mouseleave(function() {
-             $(this).css({"color":"green"});
+           $('#task1').css("color",activeColor).mouseleave(function() {
+             $(this).css({"color":activeColor});
         });
         $('#P1_submit').css({"margin-left":"10px"});
        });
@@ -108,8 +108,8 @@ $(document).ready(function (){
            $("#nav > ul > li").css({"color":"white"}).mouseleave(function() {
              $(this).css({"color":"white"});
          });
-           $('#task2').css("color","green").mouseleave(function() {
-             $(this).css({"color":"green"});
+           $('#task2').css("color",activeColor).mouseleave(function() {
+             $(this).css({"color":activeColor});
         });
         $('#P2_submit').css({"margin-left":"10px"});
        });
@@ -120,8 +120,8 @@ $(document).ready(function (){
            $("#nav > ul > li").css({"color":"white"}).mouseleave(function() {
              $(this).css({"color":"white"});
          });
-           $('#task3').css("color","green").mouseleave(function() {
-             $(this).css({"color":"green"});
+           $('#task3').css("color",activeColor).mouseleave(function() {
+             $(this).css({"color":activeColor});
         });
         $('#width_Input').css({"margin-right":"10px"});
         $('#P3_submit').css({"margin-left":"10px"});
@@ -133,8 +133,8 @@ $(document).ready(function (){
            $("#nav > ul > li").css({"color":"white"}).mouseleave(function() {
              $(this).css({"color":"white"});
          });
-           $('#task4').css("color","green").mouseleave(function() {
-             $(this).css({"color":"green"});
+           $('#task4').css("color",activeColor).mouseleave(function() {
+             $(this).css({"color":activeColor});
         });
         $('#P4_submit').css({"margin-left":"10px"});
        });
@@ -145,8 +145,8 @@ $(document).ready(function (){
            $("#nav > ul > li").css({"color":"white"}).mouseleave(function() {
              $(this).css({"color":"white"});
          });
-           $('#task5').css("color","green").mouseleave(function() {
-             $(this).css({"color":"green"});
+           $('#task5').css("color",activeColor).mouseleave(function() {
+             $(this).css({"color":activeColor});
         });
         $('#P5_submit').css({"margin-left":"10px"});
        });
@@ -157,8 +157,8 @@ $(document).ready(function (){
            $("#nav > ul > li").css({"color":"white"}).mouseleave(function() {
              $(this).css({"color":"white"});
          });
-           $('#task6').css("color","green").mouseleave(function() {
-             $(this).css({"color":"green"});
+           $('#task6').css("color",activeColor).mouseleave(function() {
+             $(this).css({"color":activeColor});
         });
         $('#P6_submit').css({"margin-left":"10px"});
         $('#x_Input').css({"margin-right":"10px"});
@@ -170,8 +170,8 @@ $(document).ready(function (){
            $("#nav > ul > li").css({"color":"white"}).mouseleave(function() {
              $(this).css({"color":"white"});
          });
-           $('#task7').css("color","green").mouseleave(function() {
-             $(this).css({"color":"green"});
+           $('#task7').css("color",activeColor).mouseleave(function() {
+             $(this).css({"color":activeColor});
         });
         $('#P7_submit').css({"margin-left":"10px"});
        });
@@ -182,8 +182,8 @@ $(document).ready(function (){
            $("#nav > ul > li").css({"color":"white"}).mouseleave(function() {
              $(this).css({"color":"white"});
          });
-           $('#task8').css("color","green").mouseleave(function() {
-             $(this).css({"color":"green"});
+           $('#task8').css("color",activeColor).mouseleave(function() {
+             $(this).css({"color":activeColor});
         });
         $('#P8_submit').css({"margin-left":"10px"});
         $('#a_Input').css({"margin-right":"10px"});
@@ -197,8 +197,8 @@ $(document).ready(function (){
            $("#nav > ul > li").css({"color":"white"}).mouseleave(function() {
              $(this).css({"color":"white"});
          });
-           $('#task9').css("color","green").mouseleave(function() {
-             $(this).css({"color":"green"});
+           $('#task9').css("color",activeColor).mouseleave(function() {
+             $(this).css({"color":activeColor});
         });
         $('#P9_submit').css({"margin-left":"10px"});
         $('#coordX_Input').css({"margin-right":"20px"});
